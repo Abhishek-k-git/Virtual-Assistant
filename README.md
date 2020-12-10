@@ -4,20 +4,20 @@
      A simple virtual assistant that can take order over voice. It can tell current date, time and can give description about a person through        wikipedia.<br>
      
 - Libraries used: <br>
- *speech_recognition*<br>
- *gtts*<br>
- *os*<br>
- *wikipedia*<br>
- *datetime*<br>
- *calendar*<br>
- *random*<br>
- *warnings*<br>
+ ```speech_recognition```<br>
+ ```gtts```<br>
+ ```os```<br>
+ ```wikipedia```<br>
+ ```datetime```<br>
+ ```calendar```<br>
+ ```random```<br>
+ ```warnings```<br>
 
 - Pre Installations: <br>
- *pip install SpeechRecognition*<br>
- *pip install PyAudio* or *conda install PyAudio*<br>
- *pip install gTTS*<br>
- *pip install wikipedia*<br><br>
+ ```pip install SpeechRecognition```<br>
+ ```pip install PyAudio``` or ```conda install PyAudio```<br>
+ ```pip install gTTS```<br>
+ ```pip install wikipedia```<br>
  
 - <a href="https://pypi.org/project/SpeechRecognition/">SpeechRecognition</a>: 
      Library for performing speech recognition, with support for several engines and APIs, online and offline.<br>
