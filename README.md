@@ -12,8 +12,15 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------
 <b>Checking: </b><br>
 *You:* Hey what is time right now.<br> 
+
 *Response:* Hello Time is: 8:16:50<br> 
+
 *You:* Hey what is date today.<br> 
+
 *Response:* Hey Today is Saturday 17th october, 2020<br>
+
 *You:* Jarvis who is albert einstein.<br>
-*Response:* Albert Einstein (/ˈaɪnstaɪn/ EYEN-styne;[4] German: [ˈalbɛʁt ˈʔaɪnʃtaɪn] (About this soundlisten); 14 March 1879 – 18 April 1955) was a German-born theoretical physicist[5] who developed the theory of relativity, one of the two pillars of modern physics (alongside quantum mechanics).[3][6]:274 His work is also known for its influence on the philosophy of science.[7][8] He is best known to the general public for his mass–energy equivalence formula E = mc2, which has been dubbed "the world's most famous equation".<br><b> You:</b> Jarvis bye<br>
+
+*Response:* Albert Einstein (/ˈaɪnstaɪn/ EYEN-styne;[4] German: [ˈalbɛʁt ˈʔaɪnʃtaɪn] (About this soundlisten); 14 March 1879 – 18 April 1955)        was a German-born theoretical physicist[5] who developed the theory of relativity, one of the two pillars of modern physics (alongside          quantum mechanics).[3][6]:274 His work is also known for its influence on the philosophy of science.[7][8] He is best known to the general      public for his mass–energy equivalence formula E = mc2, which has been dubbed "the world's most famous equation".<br>
+
+*You:* Jarvis bye<br>
