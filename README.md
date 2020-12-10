@@ -3,28 +3,37 @@
 - Description: <br>
      A simple virtual assistant that can take order over voice. It can tell current date, time and can give description about a person through        wikipedia.<br>
      
-- Libraries used: 
- *speech_recognition*
- *gtts*
- *os*
- *wikipedia*
- *datetime*
- *calendar*
- *random*
+- Libraries used: <br>
+ *speech_recognition*<br>
+ *gtts*<br>
+ *os*<br>
+ *wikipedia*<br>
+ *datetime*<br>
+ *calendar*<br>
+ *random*<br>
  *warnings*<br>
 
 - Pre Installations: <br>
- *pip install SpeechRecognition*
- *pip install PyAudio* or *conda install PyAudio*
- *pip install gTTS*
- *pip install wikipedia*<br>
+ *pip install SpeechRecognition*<br>
+ *pip install PyAudio* or *conda install PyAudio*<br>
+ *pip install gTTS*<br>
+ *pip install wikipedia*<br><br>
  
-<b><a href="https://pypi.org/project/SpeechRecognition/">SpeechRecognition</a>: </b> Library for performing speech recognition, with support for several engines and APIs, online and offline.<br>
-<b><a href="https://pypi.org/project/gTTS/">gTTS</a>: </b> gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate text-to-speech API<br> 
-<b><a href="https://pypi.org/project/PyAudio/">PyAudio</a>: </b> Bindings for PortAudio v19, the cross-platform audio input/output stream library.<br>
-<b><a href="https://pypi.org/project/wikipedia/">Wikipedia</a>: </b> Wikipedia API for Python<br>
+- <a href="https://pypi.org/project/SpeechRecognition/">SpeechRecognition: 
+     Library for performing speech recognition, with support for several engines and APIs, online and offline.<br>
+- <a href="https://pypi.org/project/gTTS/">gTTS: 
+     gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate text-to-speech API<br> 
+- <a href="https://pypi.org/project/PyAudio/">PyAudio: 
+     Bindings for PortAudio v19, the cross-platform audio input/output stream library.<br>
+- <a href="https://pypi.org/project/wikipedia/">Wikipedia: 
+     Wikipedia API for Python<br>
+     
 <img src="speech_recog.png"/><br><br>
-<b>Working: </b><ul><li>Wake up immediately on saying 'hey' <b>or</b> 'jarvis'</li><li>Give commands like 'time','date' or 'who is' whatever you want to know</li><li><b>Close</b> by saying 'bye' or 'close'</li></ul><br><br>
+
+- Working: <br>
+     Wake up immediately on saying 'hey' **or** 'jarvis'.
+     Give commands like 'time','date' or 'who is' whatever you want to know.
+     **Close** by saying 'bye' or 'close'.<br>
 -------------------------------------------------------------------------------------------------------------------------------------------------
 <b>Checking: </b><br>
 *You:* Hey what is time right now.<br> 
