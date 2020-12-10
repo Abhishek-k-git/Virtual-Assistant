@@ -34,7 +34,9 @@
      Wake up immediately on saying 'hey' **or** 'jarvis'.
      Give commands like 'time','date' or 'who is' whatever you want to know.
      **Close** by saying 'bye' or 'close'.<br>
-------------------------------------------------------------------------------------------------------------------------------------------------- Checking: <br>
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+- Checking: <br>
 
 **You:** Hey what is time right now.<br> 
 
