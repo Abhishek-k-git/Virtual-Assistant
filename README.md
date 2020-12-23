@@ -27,8 +27,8 @@
      Bindings for PortAudio v19, the cross-platform audio input/output stream library.<br>
 - <a href="https://pypi.org/project/wikipedia/">Wikipedia</a>: 
      Wikipedia API for Python<br>
-     
-<img src="speech_recog.png" hieght='60px' width='60px' /><br><br>
+  
+ <img align="center" src="speech_recog.png" hieght='60px' width='60px' /><br><br>
 
 - Working: <br>
      Wake up immediately on saying 'hey' **or** 'jarvis'.
