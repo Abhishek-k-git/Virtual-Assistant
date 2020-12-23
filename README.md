@@ -28,7 +28,7 @@
 - <a href="https://pypi.org/project/wikipedia/">Wikipedia</a>: 
      Wikipedia API for Python<br>
      
-<img src="speech_recog.png"/><br><br>
+<img src="speech_recog.png" hieght='60px' width='60px' /><br><br>
 
 - Working: <br>
      Wake up immediately on saying 'hey' **or** 'jarvis'.
